@@ -6,8 +6,8 @@ import requests
 from scipy import stats
 from datetime import datetime, timedelta
 
-polygon_api_key = 'IlxqV8qGkz9tg_1U_6Gq75CjYEq_n5kU'
-openai_api_key = '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'
+polygon_api_key = 'POLYGON_API_KEY'
+openai_api_key = 'OPENAI_API_KEY'
 
 # Helper function to add a day to given date
 def add_day(date):
